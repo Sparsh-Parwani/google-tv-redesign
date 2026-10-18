@@ -32,33 +32,72 @@ https://github.com/user-attachments/assets/93dc8cfc-252b-4751-b524-10bd04fa5e3b
 * Reduced the bloated top bar down to four core utilities: **Search, Home, Ambient (Screensaver), and Quick Settings**.
 * Retained the premium Hero Sponsored Banner at the top without interrupting the primary navigation bar.
 
-![Navigation Bar](./screens/Nav%20bar.jpg)
-![Sponsored Hero](./screens/Sponsored.jpg)
+Navigation Bar:
+
+![Navigation Bar](<Screens/1. Nav bar.jpg>)
+
+
+Sponsored Section:
+
+![Sponsored Hero](<Screens/2. Sponsored.jpg>)
+
 
 ### 2. Frictionless Content Hierarchy (Immediate Priority)
 * Positioned **Continue Watching** and **Your Apps** immediately below the hero banner so users can resume playback or jump into an OTT app in 1–2 clicks.
 
-![Continue Watching](./screens/cont%20watching.jpg)
-![Your Apps](./screens/Your%20apps.jpg)
+Continue Watching:
+
+![Continue Watching](<Screens/3. cont watching.jpg>)
+
+
+Your Apps:
+
+![Your Apps](<Screens/4. Your apps.png>)
+
 
 ### 3. Native Monetisation Strategy (Top Movies & Shows)
 * Replaced isolated, easily ignored "Top Selling" carousels with seamless ad placements embedded directly inside organic **Top movies for you** and **Top shows for you** recommendation rows.
 
-![Top Movies For You](./screens/Top%20movies%20for%20you.jpg)
-![Top Shows For You](./screens/Top%20shows%20for%20you.jpg)
+Top Movies For You:
+
+![Top Movies For You](<Screens/5. Top movies for you.jpg>)
+
+
+Top Shows For You:
+
+![Top Shows For You](<Screens/6. Top shows for you.jpg>)
+
 
 ### 4. Thematic Hubs & Visual Variety
 * Incorporated stylised category tiles under **Browse by genre** to break the visual monotony of static movie posters.
 * Added cultural and seasonal event carousels (**Pride Month Celebration**) that organically house curated sponsored content.
 
-![Browse By Genre](./screens/Browse%20by%20genre.jpg)
-![Pride Month Celebration](./screens/Pride%20month%20celebration.jpg)
+Browse By Genre:
+
+![Browse By Genre](<Screens/7. Browse by genre.jpg>)
+
+
+Pride Month Celebration:
+
+![Pride Month Celebration](<Screens/8. Pride month celebration.jpg>)
+
 
 ### 5. Ecosystem-Specific Discovery Feeds
 * Introduced dedicated rows for major streaming platforms (**Netflix, Prime Video, YouTube**) to reflect how users actually consume media across separate subscriptions, blending organic algorithms with non-intrusive sponsored titles.
 
-![Netflix Recommendations](./screens/Netflix%20recommendations%20for%20you.jpg)
-![YouTube Recommendations](./screens/YouTube%20recommendations%20for%20you.jpg)
+Netflix Recommendations:
+
+![Netflix Recommendations](<Screens/9. Netflix recommendations for you.jpg>)
+
+
+Prime Video Recommendations:
+
+![Prime Video Recommendations](<Screens/9.1 Prime Video recommendations for you.jpg>)
+
+
+YouTube Recommendations:
+
+![YouTube Recommendations](<Screens/9.2 YouTube recommendations for you.jpg>)
 
 ---
 
