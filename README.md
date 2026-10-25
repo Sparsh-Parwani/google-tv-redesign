@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/d411a90b-f174-4974-89ae-ae9dd5f604d7
 ## 🔗 Quick Links
 - 🎮 **Interactive Figma Prototype: [Figma link!](https://www.figma.com/proto/DwX65z4gUoeqI5y94FIA4v/Google-TV-Redesign?node-id=406-2070&p=f&viewport=423%2C338%2C0.02&t=fZFaSoUdxhalYRFh-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1)** *(Open on desktop & use Enter + Arrow keys to navigate)*
 - 🎨 **Figma Community File: [Community file link!](https://www.figma.com/community/file/1692822853098022339/google-tv-redesign)** *(Duplicate and remix the UI kit)*
-- 💼 **LinkedIn Case Study Post: [LinkedIn link!](https://lnkd.in/p/gs6RTTfC)** *(Join the discussion & leave feedback)*
+- 💼 **LinkedIn Case Study Post: [LinkedIn link!](https://lnkd.in/p/g4XaTnX4)** *(Join the discussion & leave feedback)*
 
 ---
 
@@ -124,6 +124,3 @@ YouTube Recommendations:
 ## ⚖️ License & Attribution
 This project is licensed under the **MIT License** (and **CC BY 4.0** for visual design assets). 
 You are completely free to duplicate, remix, and use these layouts or assets in your own projects—**all I ask is that you credit/tag me [Sparsh Parwani](https://www.linkedin.com/in/sparsh-parwani/) when you share or publish your work!**
-
-https://github.com/user-attachments/assets/befd6dd2-a43b-45b2-a9a3-1e5c4e0d14d9
-
